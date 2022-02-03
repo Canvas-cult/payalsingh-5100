@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @payalsingh-5100
+- 👋 Hi, I’m @Canvas-cult
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Open Source Project
